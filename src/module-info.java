@@ -4,5 +4,5 @@
 /**
  * 
  */
-module sc2002.scmb.hms {
+module sc2002_scmb.hms {
 }
