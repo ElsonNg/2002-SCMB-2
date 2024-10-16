@@ -1,4 +1,4 @@
-package sc2002.scmb.hms;
+package sc2002_scmb.hms;
 
 public class MainApp {
 
