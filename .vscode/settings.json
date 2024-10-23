@@ -1,0 +1,9 @@
+{
+    "editor.fontSize": 64,
+    "workbench.colorTheme": "Default High Contrast Light",
+    "workbench.editor.decorations.colors": true,
+    "editor.minimap.scale": 3,
+    "editor.minimap.enabled": true,
+    "editor.minimap.side": "left",
+    
+}
